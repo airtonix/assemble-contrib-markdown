@@ -3,7 +3,7 @@
     {
       "name": "assemble",
       "forks": 35,
-      "watchers": 507,
+      "watchers": 511,
       "fullname": "assemble/assemble",
       "description": "Static site generator for Grunt.js, Yeoman and Node.js. Used by H5BP/Effeckt, Topcoat, Web Experience Toolkit, and hundreds of other projects to build sites, themes, components, documentation, blogs and gh-pages.",
       "language": "JavaScript",
@@ -35,6 +35,18 @@
       "clone_url": "https://github.com/assemble/assemble-contrib-contextual.git",
       "url": "https://github.com/assemble/assemble-contrib-contextual",
       "download": "https://github.com/assemble/assemble-contrib-contextual/archive/master.zip"
+    },
+    {
+      "name": "assemble-contrib-markdown",
+      "forks": 0,
+      "watchers": 1,
+      "fullname": "assemble/assemble-contrib-markdown",
+      "description": "Convert markdown files to HTML using marked.js. This plugin is an alternative to Assemble's markdown Handlebars helpers. Both are useful in different scenarios.",
+      "language": "JavaScript",
+      "git_url": "git://github.com/assemble/assemble-contrib-markdown.git",
+      "clone_url": "https://github.com/assemble/assemble-contrib-markdown.git",
+      "url": "https://github.com/assemble/assemble-contrib-markdown",
+      "download": "https://github.com/assemble/assemble-contrib-markdown/archive/master.zip"
     },
     {
       "name": "assemble-contrib-permalinks",
@@ -135,7 +147,7 @@
     {
       "name": "assemble-less",
       "forks": 8,
-      "watchers": 32,
+      "watchers": 33,
       "fullname": "assemble/assemble-less",
       "description": "Grunt task for compiling LESS to CSS. ",
       "language": "JavaScript",
@@ -219,7 +231,7 @@
     {
       "name": "boilerplate-bootstrap",
       "forks": 5,
-      "watchers": 15,
+      "watchers": 16,
       "fullname": "assemble/boilerplate-bootstrap",
       "description": "Build Bootstrap with Assemble instead of Jekyll. ",
       "language": "JavaScript",
@@ -543,7 +555,7 @@
     {
       "name": "grunt-readme",
       "forks": 3,
-      "watchers": 7,
+      "watchers": 8,
       "fullname": "assemble/grunt-readme",
       "description": "Generate your README from a template. Fast, very little config, and if you already use Grunt it's a no-brainer.",
       "language": "JavaScript",
@@ -579,7 +591,7 @@
     {
       "name": "handlebars-helpers",
       "forks": 29,
-      "watchers": 284,
+      "watchers": 285,
       "fullname": "assemble/handlebars-helpers",
       "description": "Library of 120+ handlebars helpers for any project: Assemble, Ghost, YUI... This project is active and supported, we love contributors and appreciate stars.",
       "language": "JavaScript",
@@ -639,7 +651,7 @@
     {
       "name": "plugins",
       "forks": 0,
-      "watchers": 1,
+      "watchers": 2,
       "fullname": "assemble/plugins",
       "description": "Collection of plugins maintained by the Assemble core team.",
       "language": "JavaScript",

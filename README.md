@@ -62,7 +62,7 @@ You might also be interested in these other plugins from the Assemble core team:
 > Assemble plugin for creating anchor tags from generated html.  
 
 ### [assemble-contrib-contextual](https://github.com/assemble/assemble-contrib-contextual) [![NPM version](https://badge.fury.io/js/assemble-contrib-contextual.png)](http://badge.fury.io/js/assemble-contrib-contextual)
-> Generates a JSON file containing the context of each page. Basic plugin to help see what's happening in the build.  
+> Generates a JSON file containing the context of each page. Basic plugin to help see what's happening in the build.   
 
 ### [assemble-contrib-permalinks](https://github.com/assemble/assemble-contrib-permalinks) [![NPM version](https://badge.fury.io/js/assemble-contrib-permalinks.png)](http://badge.fury.io/js/assemble-contrib-permalinks)
 > Permalinks plugin for Assemble, the static site generator for Grunt.js and Yeoman. This plugin enables powerful and configurable URI replacement patterns, presets, uses Moment.js for parsing dates, and much more.  
