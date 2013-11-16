@@ -1,0 +1,37 @@
+{
+  "name": "assemble-contrib-markdown",
+  "version": "0.1.0",
+  "description": "Convert markdown files to HTML, this is an alternative to the markdown Handlebars helpers. Both are useful in different scenarios.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/assemble/assemble-contrib-markdown"
+  },
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/assemble/assemble-contrib-markdown/blob/master/LICENSE-MIT"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/assemble/assemble-contrib-markdown/issues"
+  },
+  "dependencies": {
+    "marked": "~0.2.10"
+  },
+  "keywords": [
+    "assemble",
+    "assembleplugin",
+    "plugin",
+    "anchor"
+  ],
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.7.1",
+    "grunt": "~0.4.1",
+    "grunt-readme": "~0.3.0"
+  }
+}
